@@ -9,6 +9,7 @@
 API is on http://localhost:3000/users
 Query page is on http://localhost:4000
 
+This is follow Udemy tutorial.
 
 ### Example Query
 {
